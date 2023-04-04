@@ -23,7 +23,7 @@ class MyStack(TerraformStack):
             key="main/tfstate",
             encrypt=True,
             region=provider.region,
-            profile="mehays-deployer",
+            profile=provider.profile,
         )
 
         site_bucket = S3Bucket(
