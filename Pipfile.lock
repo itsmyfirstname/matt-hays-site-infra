@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "df1219be6ece976259efd23b2e334e1769854ba89abda389394f22f6939fbbdc"
+            "sha256": "d8c594312e81b878e4b180039ed25688612f01fb788457c6e46205644e456285"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -42,19 +42,19 @@
         },
         "cdktf-cdktf-provider-aws": {
             "hashes": [
-                "sha256:544e26abbd5685fb2ecb40faa2a1be4e5aa8a056485af8dfa80919fe188f5608",
-                "sha256:57524f0ccf3c9a633e00d2baf0f1beea6a558efddac93a0ce08d5eedfbe0b1fc"
+                "sha256:2baf1aa04b1c8f1445ab171296cde7464a9602589e610cd2b51990396f7a0da2",
+                "sha256:a8ce90eb9c0156683dc465bdb9971e0767b08e06afe0fbddc908585b1c0daa36"
             ],
             "index": "pypi",
-            "version": "==12.0.11"
+            "version": "==12.0.12"
         },
         "constructs": {
             "hashes": [
-                "sha256:807c27b83e02d4a0e37278873bcee9221c29038292677fdaeb00be2a93c3c47a",
-                "sha256:b9086be63ac9b8edbed34e21e60c3fd0c958979cae4f8c2f6ab7036b4fb7a5db"
+                "sha256:9552485da38d922fc22b11a4a88b6f78d782952dbafe8c535bcf2c58aa3ce515",
+                "sha256:b21e1af68e5d1da20c45b4bc72dd2c87562ccfc3fdf7ac3fd50534a5c328185c"
             ],
             "markers": "python_version ~= '3.7'",
-            "version": "==10.1.294"
+            "version": "==10.1.301"
         },
         "importlib-resources": {
             "hashes": [
